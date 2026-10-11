@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "do9M0blu4YE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\OneDrive\\Escritorio\\FORO 1 SOFTWARE\\BACKEND\\Dashboard de Control\\Dashboard de Control.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.20\\microsoft.aspnetcore.openapi.9.0.20.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.openapi\\1.6.30\\microsoft.openapi.1.6.30.nupkg.sha512"
+  ],
+  "logs": []
+}
